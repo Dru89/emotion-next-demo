@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/no-cache": "pages/no-cache.html",
+  "/yes-cache": "pages/yes-cache.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
